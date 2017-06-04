@@ -33,7 +33,7 @@
   ],
   "dependencies": {},
   "optionalDependencies": {
-    "deep-freeze-strict": "^1.1.1"
+    "deep-freeze-strict": "jsdf/deep-freeze#a698ebb5d46ad07295358b4d2748ac966d759700"
   },
   "devDependencies": {
     "chalk": "^1.1.3",
